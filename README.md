@@ -11,3 +11,5 @@ During those weeks I acquired a broad set of skills which mainly include:
 Discbook:
 - [Front end](https://github.com/Jannis-Passalis/DiscBook-Client)
 - [Back end](https://github.com/Jannis-Passalis/DiscBook-Server) 
+
+[![Jannis's github stats](https://github-readme-stats.vercel.app/api?username=Jannis-Passalis)](https://github.com/Jannis-Passalis/github-readme-stats)
