@@ -12,4 +12,10 @@ Discbook:
 - [Front end](https://github.com/Jannis-Passalis/DiscBook-Client)
 - [Back end](https://github.com/Jannis-Passalis/DiscBook-Server) 
 
+#### Last Big Group Project
+
+Easycoding:
+- [Front end](https://github.com/TSKraak/easycoding-fe)
+- [Back end](https://github.com/TSKraak/easycoding-be)
+
 [![Jannis's github stats](https://github-readme-stats.vercel.app/api?username=Jannis-Passalis)](https://github.com/Jannis-Passalis/github-readme-stats)
